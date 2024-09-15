@@ -1,9 +1,6 @@
 Mertbikos,
-Another regular person.
 
-Likes making games.
-Loves playing games.
-Dislikes bugs
-Hates complex languages.
+Head Developer of the Project Laire.
+Nothing else really. Just likes Java and OOP.
 
-That's all 'bout me.
+(And hates learning tons of things, tries to keep it simple)
